@@ -1,5 +1,5 @@
-### Hi there 👋
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinDPerkins&theme=default&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/JustinDPerkins/JustinDPerkins)
+### Hi I am Justin 👋
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinDPerkins&count_private=true&show_icons=true&theme=dracula)](https://github.com/JustinDPerkins/JustinDPerkins)
 <!--
 **JustinDPerkins/JustinDPerkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
