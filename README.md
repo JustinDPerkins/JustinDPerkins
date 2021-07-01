@@ -12,6 +12,12 @@
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-000000?style=flat&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-000000?style=flat&logo=microsoft-azure)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-000000?style=flat&logo=google)
+
+**Contact:**
+
+<p>
+<a href="https://www.linkedin.com/in/justin-perkins-247305187/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+</p>
 <!--
 **JustinDPerkins/JustinDPerkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
