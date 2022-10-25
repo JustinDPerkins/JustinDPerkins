@@ -1,6 +1,13 @@
 ### Hi I am Justin 👋
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinDPerkins&count_private=true&show_icons=true&theme=merko)](https://github.com/JustinDPerkins/JustinDPerkins)
 
+**Publications:**
+- 📝 Blog: https://medium.com/@the.justin.perkins - check out blogs on Medium! 
+  
+  <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fernando0stc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@the.justin.perkins/0" alt="Recent Article 0"></a>
+
+  <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fernando0stc/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@the.justin.perkins/1" alt="Recent Article 1"></a>
+
 **Languages:**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
