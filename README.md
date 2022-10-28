@@ -1,5 +1,6 @@
 ### Hi I am Justin 👋
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinDPerkins&count_private=true&show_icons=true&theme=merko)](https://github.com/JustinDPerkins/JustinDPerkins)
+![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinDPerkins&show_icons=true&theme=merko&count_private=true)
+
 
 **Publications:**
 - 📝 Blog: https://medium.com/@the.justin.perkins - check out blogs on Medium! 
