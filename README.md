@@ -6,7 +6,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=JustinDPerkins&label=VISITORS&color=FF6B35&style=for-the-badge" alt="Profile Views"/>
 
-</div>
+<a href="https://aws.amazon.com/blogs/apn/congrats-to-our-2023-aws-ambassador-award-winners-and-meet-the-newest-aws-ambassadors/"><img src="https://img.shields.io/badge/AWS%20AMBASSADOR-2023%20%231%20GLOBAL%20ISV-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/justin-perkins-247305187/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://medium.com/@the.justin.perkins"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
 ---
 
@@ -126,11 +128,10 @@ const justin = {
 
 <br>
 
-<img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustinDPerkins&theme=github_dark"/>
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustinDPerkins&theme=github_dark"/>
 
 <br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JustinDPerkins&show_icons=true&hide_border=true&count_private=true&bg_color=0a192f&title_color=FF6B35&text_color=ccd6f6&icon_color=FF8C42"/>
 <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=JustinDPerkins&hide_border=true&background=0a192f&ring=FF6B35&fire=FF8C42&currStreakLabel=FF6B35&sideLabels=ccd6f6&currStreakNum=ccd6f6&sideNums=ccd6f6&dates=8892b0"/>
 
 <br><br>
@@ -140,22 +141,6 @@ const justin = {
 </div>
 
 ---
-
-```css
-/* ESTABLISH CONNECTION */
-```
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/justin-perkins-247305187/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://medium.com/@the.justin.perkins">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="35"/>
-</a>
-
-<br><br>
 
 ```
          *    .  *       .             *
